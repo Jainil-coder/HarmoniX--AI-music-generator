@@ -1,1 +1,1 @@
-# Symphony
+# HarmoniX - An AI Music Generator
