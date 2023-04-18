@@ -1,4 +1,5 @@
-# AI Music Generator
+# HarmoniX - AI Music Generator
+## Inovation meets Melody
 
 The AI Music Generator is a web application that generates music using artificial intelligence.
 
@@ -14,7 +15,7 @@ The AI Music Generator is a web application that generates music using artificia
 
 ## Getting Started
 
-To get started with the AI Music Generator, you will need to clone the repository:
+To get started with the HarmoniX, you will need to clone the repository:
 
 <b> - git clone https://github.com/yourusername/ai-music-generator.git</b>
 
